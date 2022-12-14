@@ -11,7 +11,7 @@ public class Plugin : IPlugin
 #if DEBUG
     public string FriendlyName => "ILS (DEBUG)";
 #else
-    public string FriendlyName => "ILS";
+    public string FriendlyName => "ILS V2.0";
 #endif
     public string Maintainer => "Alvaro (519820)";
 
